@@ -61,11 +61,11 @@ Create .env file in /backend:
 
 PORT=8000
 
-MONGODB_URL=mongodb+srv://ahteshamrauf9_db_user:<db_password>@cluster0.ejod8cw.mongodb.net/chating
+MONGODB_URL=your Url
 
-JWT_SECRET=wsk21YUEG23
+JWT_SECRET=your secret key
 
-CLOUDINARY_API_SECRET=oc_pbKKa2Gze7epLQlGQhC9VK0A
+CLOUDINARY_API_SECRET=your key
 
 
 3️⃣ Setup Frontend
