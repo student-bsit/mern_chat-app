@@ -50,7 +50,7 @@ cd chat-app
 
 2️⃣ Setup Backend
 
-
+```bash
 /frontend   -> React application (UI)
 /backend    -> Node.js + Express + Socket.IO server
 
